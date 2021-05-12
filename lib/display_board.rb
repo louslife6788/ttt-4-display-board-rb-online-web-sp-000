@@ -8,4 +8,4 @@ def display_board(x= ["?","?","?","?","?","?","?","?","?"])
 
 
 move = ["x", "o","x","o","o"]
-display_board(move)
+display_board
